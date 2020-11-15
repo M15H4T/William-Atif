@@ -58,8 +58,8 @@ logo = """
  / /          //   \ \       //    / /   
 / /          //     \ \     ((____/ /
 \033[1;97m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;92m๑۩۩๑\033[1;97m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-\033[1;97mAuthor©\033[1;97m: \033[1;92mWilWilliam Atifif
-\033[1;97mInstagram\033[1;97m: \033[1;92mhttps://www.Instagram.com/William
+\033[1;97mAuthor©\033[1;97m: \033[1;92mWilliam Atif
+\033[1;97mInstagram\033[1;97m: \033[1;92mhttps://www.Instagram.com/William Atif
 \033[1;97mFacebook\033[1;97m: \033[1;92mhttps://www.facebook.com/William Atif
 \033[1;97mWhatsapp\033[1;97m: \033[1;92m+
 \033[1;97m«--------------------\033[1;92m✧\033[1;97m--------------------»"""
@@ -100,7 +100,7 @@ print  """
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
 jalan('              \033[1;91mREAD CAREFULLY:')
 jalan("\033[1;97m Tool Username And Password  ")
-jalan('\033[1;97m    Username Mishat Password Mishat ')
+jalan('\033[1;97m    Username William Password Atif ')
 jalan("\033[1;97m    ██████ 100%  ")
 
 print "\033[1;91m«-------------\033[1;93mLogin With Tool\033[1;91m-------------»"
